@@ -74,10 +74,10 @@ FROM employees e;
 
 | Category                      | Winner           |
 | ----------------------------- | ---------------- |
-| **Readability**               | 🏆 CTE           |
-| **Performance (large data)**  | 🏆 CTE + JOIN    |
+| **Readability**               |  CTE           |
+| **Performance (large data)**  |  CTE + JOIN    |
 | **Simplicity for small data** | Subquery is fine |
-| **Reusability**               | 🏆 CTE           |
+| **Reusability**               |  CTE           |
 
 ---
 
