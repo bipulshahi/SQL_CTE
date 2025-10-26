@@ -74,10 +74,5 @@ The database `ecommerce_db` contains tables related to an e-commerce system:
 
 These tables are linked by foreign keys, allowing queries that join multiple tables to extract meaningful insights.
 
-With this setup, you can practice writing CTEs and views to analyze data step-by-step.
 
 ***
-
-Next, I will explain a few example questions from the ppt, how to solve them using CTEs, and provide detailed explanations using your ecommerce data.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/131462429/c09a02de-2d42-4625-8e0d-313bfbcb89d2/Lecture-14.pdf)
