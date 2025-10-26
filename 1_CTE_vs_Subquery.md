@@ -85,7 +85,3 @@ FROM employees e;
 
 > **CTEs are generally better** than correlated subqueries in terms of readability, maintainability, and performance (especially on large datasets).
 > Subqueries are okay for quick, simple lookups or when performance impact is negligible.
-
----
-
-Would you like me to show how this same example looks with a **LEFT JOIN** (to include employees who have *no sales yet*) and compare its logic too?
