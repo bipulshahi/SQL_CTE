@@ -438,5 +438,3 @@ ORDER BY revenue_month;
 - CTEs are temporary; Views are permanent
 - Both simplify SQL and improve maintainability
 - Choose based on scope: CTE for single queries, View for multiple queries
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/131462429/c09a02de-2d42-4625-8e0d-313bfbcb89d2/Lecture-14.pdf)
